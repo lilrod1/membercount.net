@@ -3,7 +3,7 @@
 Setting up this bot is quite simple. Firstly, make sure you have [invited the bot](https://membercount.net/invite?from=docs-guide) to your server with the correct permissions (administrator, or see the [faq](faq)).
 
 ### Step 1
-Use `m!setup`. This is actually all you need to do. Running this command will add the following to the bottom of your channel list:
+Use `/setup`. This is actually all you need to do. Running this command will add the following to the bottom of your channel list:
 
 ![](https://i.imgur.com/yVlZFsh.png)
 
